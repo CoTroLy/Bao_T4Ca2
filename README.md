@@ -5,12 +5,13 @@
   Ngô Gia Bảo
 </div>
 
-<img src="https://github.com/user-attachments/assets/85c73406-5472-4c07-828e-bc579482227c" width="24" height="24"/> <strong>19/04/2004</strong>
+<strong>19/04/2004</strong>
 
 
 **Ngày sinh:** 19/04/2004  
-**Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
-**Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
+
+<img src="https://github.com/user-attachments/assets/006827fe-13bb-4f33-adff-465327afb95a" width="24" height="24"/> **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
+<img src="https://github.com/user-attachments/assets/85c73406-5472-4c07-828e-bc579482227c" width="24" height="24"/> **Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
 
 ---
 
