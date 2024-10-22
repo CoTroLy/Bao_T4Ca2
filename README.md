@@ -10,7 +10,7 @@
 
 **Ngày sinh:** 19/04/2004  
 **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
-**Facebook:** [Facebook](https://www.facebook.com/giabao.ngo.75098364)  
+**Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
 
 ---
 
