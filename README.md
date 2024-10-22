@@ -1,5 +1,9 @@
 # 🌱 Ngô Gia Bảo
 
+<div align="center">
+  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
+</div>
+
 **Ngày sinh:** 19/04/2004  
 **Email:** [email@example.com](mailto:email@example.com)  
 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/username)  
@@ -10,9 +14,6 @@
 ## 🚀 About Me
 
 Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê trong lĩnh vực phát triển web và cơ sở dữ liệu. Mình luôn tìm kiếm cơ hội để học hỏi và đóng góp vào các dự án mã nguồn mở, cũng như phát triển các kỹ năng lập trình của mình.
-
-![Ngô Gia Bảo](https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png)
-
 
 ---
 
