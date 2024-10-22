@@ -5,9 +5,9 @@
   Ngô Gia Bảo
 </div>
 
-  <img src="https://img.icons8.com/fluent/48/000000/birthday-cake.png"/>**Ngày sinh:** 19/04/2004  
-    <img src="https://img.icons8.com/fluent/48/000000/new-post.png"/> ngobao0419@gmail.com **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/> Ngô Gia Bảo **Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
+**Ngày sinh:** 19/04/2004  
+**Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
+**Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
 
 ---
 
