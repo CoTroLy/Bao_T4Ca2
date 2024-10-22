@@ -5,7 +5,8 @@
   Ngô Gia Bảo
 </div>
 
-  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
+  <img src="https://img.icons8.com/fluent/48/000000/birthday-cake.png" width="24" height="24"/> <strong>19/04/2004</strong>
+
 
 **Ngày sinh:** 19/04/2004  
 **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
