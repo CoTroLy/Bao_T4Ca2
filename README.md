@@ -26,7 +26,7 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 
 ## 🌟 Projects
 
-### [Tên Dự Án](https://github.com/username/project)
+### [LaLaGarden](https://github.com/username/project)
 - **Mô tả:** Đây là đồ án về Web bán cây cảnh
 - **Tech Stack:** React, Node.js, MongoDB
 - **Link Demo:** [Xem Demo](https://demo-link.com)
