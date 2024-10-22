@@ -6,7 +6,7 @@
   <h2>Ngô Gia Bảo</h2>
 </div>
 
-<p align="center">
+
   <img src="https://img.icons8.com/fluent/48/000000/birthday-cake.png"/> <strong>19/04/2004</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ngobao0419@gmail.com">
@@ -16,7 +16,6 @@
   <a href="https://www.facebook.com/giabao.ngo.75098364">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/> Ngô Gia Bảo
   </a>
-</p>
 
 ---
 
