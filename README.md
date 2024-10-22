@@ -5,7 +5,7 @@
   Ngô Gia Bảo
 </div>
 
-  <img src="https://img.icons8.com/fluent/48/000000/birthday-cake.png" width="24" height="24"/> <strong>19/04/2004</strong>
+  <img src="![image](https://github.com/user-attachments/assets/85c73406-5472-4c07-828e-bc579482227c) chỉnh icon nhỏ lại" width="24" height="24"/> <strong>19/04/2004</strong>
 
 
 **Ngày sinh:** 19/04/2004  
