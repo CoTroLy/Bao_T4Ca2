@@ -26,15 +26,11 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 
 ## 🌟 Projects
 
-### 1. [Tên Dự Án](https://github.com/username/project)
-- **Mô tả:** Mô tả ngắn gọn về dự án, chức năng chính và công nghệ sử dụng.
+### [Tên Dự Án](https://github.com/username/project)
+- **Mô tả:** Đây là đồ án về Web bán cây cảnh
 - **Tech Stack:** React, Node.js, MongoDB
 - **Link Demo:** [Xem Demo](https://demo-link.com)
 
-### 2. [Tên Dự Án Khác](https://github.com/username/project2)
-- **Mô tả:** Mô tả về dự án khác bạn đã làm.
-- **Tech Stack:** Python, Flask, SQLAlchemy
-- **Link Demo:** [Xem Demo](https://demo-link.com)
 
 ---
 
