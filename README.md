@@ -1,12 +1,9 @@
-
 <div align="center">
- 
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
 <div align="center">
- 
-**Ngô Gia Bảo**
- </div>
+  **Ngô Gia Bảo**
+</div>
 
 **Ngày sinh:** 19/04/2004  
 **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
@@ -20,11 +17,25 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 
 ---
 
+## 💻 Skills
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 ## 🌟 Projects
 
 ### 1. [Tên Dự Án](https://github.com/username/project)
 - **Mô tả:** Mô tả ngắn gọn về dự án, chức năng chính và công nghệ sử dụng.
 - **Tech Stack:** React, Node.js, MongoDB
+- **Link Demo:** [Xem Demo](https://demo-link.com)
+
+### 2. [Tên Dự Án Khác](https://github.com/username/project2)
+- **Mô tả:** Mô tả về dự án khác bạn đã làm.
+- **Tech Stack:** Python, Flask, SQLAlchemy
+- **Link Demo:** [Xem Demo](https://demo-link.com)
+
 ---
 
 ## 📊 My Stats
@@ -33,5 +44,12 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoTroLy&layout=compact&theme=radical)
 
-
 ---
+
+## 🎨 Hobbies
+- **Chơi game**
+- **Đọc sách**
+- **Đi xem phim cùng bạn bè**
+
+
+
