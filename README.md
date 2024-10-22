@@ -1,6 +1,6 @@
 <div align="center">
  
- # 🌱 Ngô Gia Bảo
+Ngô Gia Bảo
  </div>
 <div align="center">
  
