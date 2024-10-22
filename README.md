@@ -25,22 +25,13 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 ### 1. [Tên Dự Án](https://github.com/username/project)
 - **Mô tả:** Mô tả ngắn gọn về dự án, chức năng chính và công nghệ sử dụng.
 - **Tech Stack:** React, Node.js, MongoDB
-
-### 2. [Tên Dự Án Khác](https://github.com/username/project2)
-- **Mô tả:** Mô tả về dự án khác bạn đã làm.
-- **Tech Stack:** Python, Flask, SQLAlchemy
-
 ---
 
 ## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoTroLy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoTroLy&layout=compact&theme=radical)
+
 
 ---
-
-## 📫 How to reach me
-
-- **Email:** [email@example.com](mailto:email@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/username)
