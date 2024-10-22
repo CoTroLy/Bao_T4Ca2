@@ -5,7 +5,8 @@
   Ngô Gia Bảo
 </div>
 
-![image](https://github.com/user-attachments/assets/85c73406-5472-4c07-828e-bc579482227c)
+  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
+
 **Ngày sinh:** 19/04/2004  
 **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
 **Facebook:** [Ngô Gia Bảo](https://www.facebook.com/giabao.ngo.75098364)  
