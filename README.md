@@ -1,11 +1,12 @@
-<div align="center">
- 
-**Ngô Gia Bảo**
- </div>
+
 <div align="center">
  
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
+<div align="center">
+ 
+**Ngô Gia Bảo**
+ </div>
 
 **Ngày sinh:** 19/04/2004  
 **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
