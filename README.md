@@ -1,13 +1,13 @@
-# 🌱 Ngô Gia Bảo
+
 
 <div align="center">
+  # 🌱 Ngô Gia Bảo
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
 
 **Ngày sinh:** 19/04/2004  
-**Email:** [email@example.com](mailto:email@example.com)  
-**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/username)  
-**GitHub:** [GitHub Profile](https://github.com/username)
+**Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
+**Facebook:** [Facebook](https://www.facebook.com/giabao.ngo.75098364)  
 
 ---
 
