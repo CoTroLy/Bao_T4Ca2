@@ -11,7 +11,8 @@
 
 Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê trong lĩnh vực phát triển web và cơ sở dữ liệu. Mình luôn tìm kiếm cơ hội để học hỏi và đóng góp vào các dự án mã nguồn mở, cũng như phát triển các kỹ năng lập trình của mình.
 
-![Ngô Gia Bảo](https://github.com/username/repository-name/blob/main/avt_git.png)
+![Ngô Gia Bảo](https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png)
+
 
 ---
 
