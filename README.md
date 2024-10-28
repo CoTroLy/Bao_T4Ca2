@@ -1,14 +1,8 @@
 <div align="center">
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
-
 <div align="center">
-  <svg width="100%" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="35" font-size="30" font-family="Arial" fill="black">
-      <tspan id="text" fill="orange">Ngô Gia Bảo</tspan>
-      <animate attributeName="opacity" values="0;1" dur="3s" repeatCount="indefinite" />
-    </text>
-  </svg>
+  Ngô Gia Bảo
 </div>
 
 <img src="https://github.com/user-attachments/assets/ce718aaf-fdbd-4aa8-9ef1-f2ba78651b77" width="24" height="24"/> **Ngày sinh:** 19/04/2004  
@@ -37,6 +31,7 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 - **Tech Stack:** React, Node.js, MongoDB
 - **Link Demo:** [Xem Demo](https://demo-link.com)
 
+
 ---
 
 ## 📊 My Stats
@@ -50,4 +45,4 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 ## 🎨 Hobbies
 - **Chơi game**
 - **Đọc sách**
-- **Đi xem phim cùng bạn bè**
+- **Đi xem phim cùng bạn bè** chỉnh cho chữ Ngô Gia Bảo có hiệu ứng hiện từ từ ra
