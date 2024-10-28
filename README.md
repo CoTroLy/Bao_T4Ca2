@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gif-git.png" alt="" width="500"/>
+</div>
+<div align="center">
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
 <div align="center">
