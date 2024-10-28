@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gifavt.gif" alt="GIF hiệu ứng" width="200px" height="200px"/>
+  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gifavt.gif" alt="GIF hiệu ứng" width="230px" height="200px"/>
 </div>
 <div align="center" >
  <h2> Ngô Gia Bảo</h2>
