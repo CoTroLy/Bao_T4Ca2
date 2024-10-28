@@ -48,5 +48,5 @@ Xin chào! Mình là **Ngô Gia Bảo**, một lập trình viên với đam mê
 - **Đi xem phim cùng bạn bè**
 
 <div align="center">
-  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gifmeo.gif" alt="GIF hiệu ứng" width="500" height="300"/>
+  <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gifmeo.gif" alt="GIF hiệu ứng" width="100%" height="300"/>
 </div>
