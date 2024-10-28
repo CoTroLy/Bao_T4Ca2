@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
-<div align="center">
+<div align="center" font-size"36px">
   Ngô Gia Bảo
 </div>
 
