@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CoTroLy/Bao_T4Ca2/main/gifmeo.gif" alt="GIF hiệu ứng" width="500" height="300"/>
+  <img src="https://raw.githubusercontent.com/CoTroLy/Bao_T4Ca2/main/gifmeo.gif" alt="GIF hiệu ứng" width="100%" height="400"/>
 </div>
 
 
