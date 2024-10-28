@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/gifavt.gif" alt="GIF hiệu ứng" width="230px" height="200px"/>
-</div>
-<div align="center" >
+  <div align="center" >
  <h2> Ngô Gia Bảo</h2>
 </div>
+</div>
+
 
 <img src="https://github.com/user-attachments/assets/ce718aaf-fdbd-4aa8-9ef1-f2ba78651b77" width="24" height="24"/> **Ngày sinh:** 19/04/2004  
 <img src="https://github.com/user-attachments/assets/006827fe-13bb-4f33-adff-465327afb95a" width="24" height="24"/> **Email:** [ngobao0419@gmail.com](mailto:ngobao0419@gmail.com)  
