@@ -5,7 +5,7 @@
   <img src="https://github.com/CoTroLy/Bao_T4Ca2/blob/main/avt_git.png" alt="Ngô Gia Bảo" width="200"/>
 </div>
 <div align="center" >
- <h1> Ngô Gia Bảo</h1>
+ <h2> Ngô Gia Bảo</h2>
 </div>
 
 <img src="https://github.com/user-attachments/assets/ce718aaf-fdbd-4aa8-9ef1-f2ba78651b77" width="24" height="24"/> **Ngày sinh:** 19/04/2004  
